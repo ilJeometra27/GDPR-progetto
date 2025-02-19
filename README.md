@@ -25,7 +25,8 @@ Installazione e Utilizzo
 
 Clonare la Repository
 
-git clone https://github.com/ilJeometra/GDPR-progetto.git
+git clone [https://github.com/ilJeometra/GDPR-progetto.git](https://github.com/ilJeometra27/GDPR-progetto.git)
+
 cd GDPR-progetto
 
 Installare le Dipendenze
